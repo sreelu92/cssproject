@@ -1,0 +1,24 @@
+html {
+    background-color: rosybrown;
+}
+
+#div1 {
+    margin:2vw;
+    background-color: salmon;
+    border-style: solid;
+    border-color:black;
+}
+
+img {
+ margin:2vw;
+ padding-left: 35vw;
+}
+ 
+
+ #div3 {
+    margin: 2vw;
+    background-color: slategray;
+    border-style: solid;
+    border-color:black;
+}
+
