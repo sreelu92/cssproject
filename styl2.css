@@ -1,0 +1,39 @@
+html {
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpNiDqV6nqbDvXp2HqOKmcRRSXIMlKHOP_4A&usqp=CAU)
+}
+
+#p1 {
+    margin: 2vw;
+    font-size: 20px;
+    line-height: 1.5em;
+    border: 2px solid black;
+}
+
+#p2 {
+    margin: 2vw;
+    font-size: 20pt;
+    line-height:1.5em ;
+    border: 3px dotted black;
+
+}
+
+#p3 {
+    margin: 2vw;
+    font-size: 1.5rem;
+    border: 2px dashed black;
+
+}
+#p4 {
+    margin: 2vw;
+    font-size: 4vh;
+    border: 2.5px groove black;
+
+}
+#div1
+{
+    margin: 2vw;
+    font-size: 200%;
+    line-height: 1em;
+    border: 3.5px double black;
+
+}
